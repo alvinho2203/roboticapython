@@ -647,5 +647,5 @@ They are providing a free license of their 1Password team license for this OSS p
 
 # Authors
 
-- [Contributors to AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/graphs/contributors)
+- André Alves Rutter Salles Open Source
 
